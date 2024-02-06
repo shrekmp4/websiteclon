@@ -1,14 +1,14 @@
-# WebSite Clonner
+# WebSite Clon
 
 Con este código podrás clonar cualquier sitio web.
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/shrekmp4/websiteclonner.git`
-2. Ve al directorio del proyecto: `cd websiteclonner`
+1. Clona el repositorio: `git clone https://github.com/shrekmp4/websiteclon.git`
+2. Ve al directorio del proyecto: `cd websiteclon`
 
 ## Uso
 
-1. Ejecuta el programa: `python WebClonner.py`
+1. Ejecuta el programa: `python WebClon.py`
 2. Introduce cualquier URL
 3. Disfruta de los archivos, estos se almacenarán en el mismo lugar de tu .py.
 
